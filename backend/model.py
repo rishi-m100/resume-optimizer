@@ -462,8 +462,8 @@ def main():
     with open('run_timestamp_link.txt', 'r') as f:
             link_timestamp = f.read().strip()
     
-    resume_dir = os.path.join('backend/parsed_resumes', file_timestamp)
-    directory = 'backend/job_postings'
+    resume_dir = os.path.join('parsed_resumes', file_timestamp)
+    directory = 'job_postings'
     directory = os.path.join(directory, link_timestamp)
     
     # Check if the directory exists and has files

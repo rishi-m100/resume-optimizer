@@ -134,11 +134,11 @@ def parse_pdf(file_path):
 
         # Parse the YAML content
         parsed_data = yaml.safe_load(yaml_content)
-        clear_directory('backend/gemini')
+        clear_directory('gemini')
         return parsed_data
     except Exception as e:
         print(f"Error parsing PDF: {str(e)}")
-        clear_directory('backend/gemini')
+        clear_directory('gemini')
         return None
 
 def save_as_yaml(data, output_path):

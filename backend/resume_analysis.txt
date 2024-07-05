@@ -1,37 +1,37 @@
 Top Items Across All Resumes:
 
 Top 4 Experiences:
-- Criterion Systems: Software Engineering Intern (Score: 0.31)
-- Johns Hopkins University Applied Physics Laboratory: Research/Machine Learning Intern (Score: 0.31)
-- University of Maryland, Baltimore County: Research Assistant (Score: 0.19)
-- CyberArk: Site Reliability Engineer Intern (Score: 0.19)
+- Criterion Systems: Software Engineering Intern (Score: 0.41)
+- Johns Hopkins University Applied Physics Laboratory: Research/Machine Learning Intern (Score: 0.29)
+- CyberArk: Site Reliability Engineer Intern (Score: 0.26)
+- University of Maryland, Baltimore County: Research Assistant (Score: 0.22)
 
 Top 2 Projects:
-- ML Stack Overflow Question Scraper (Score: 0.31)
-- Stock Price Prediction App (Score: 0.25)
+- Stock Price Prediction App (Score: 0.53)
+- ML Stack Overflow Question Scraper (Score: 0.33)
 
 Top 3 Involvements:
-- Quant Education Club (Score: 0.22)
-- SIG AIDA Applied Chair (Score: 0.19)
-- FOCAL Lab@UIUC Research (Score: 0.19)
+- Quant Education Club (Score: 0.26)
+- SIG AIDA Applied Chair (Score: 0.25)
+- FOCAL Lab@UIUC Research (Score: 0.25)
 
 Top 4 Courseworks:
 - Artificial Intelligence (Score: 0.29)
 - Machine Learning (Score: 0.29)
-- Data Structures (Score: 0.24)
-- Software Design (Score: 0.15)
+- Data Structures (Score: 0.27)
+- Software Design (Score: 0.12)
 
 Top Research:
-- ['Conducting research on offline reinforcement learning from human feedback (RLHF) at the University of Illinois at Urbana-Champaign under Dr. Gagandeep Singh and graduate mentor Yinglun Xu.', 'Developing novel methodologies for training reward models from state-action pair human preference data.'] (Score: 0.30)
+- ['Conducting research on offline reinforcement learning from human feedback (RLHF) at the University of Illinois at Urbana-Champaign under Dr. Gagandeep Singh and graduate mentor Yinglun Xu.', 'Developing novel methodologies for training reward models from state-action pair human preference data.'] (Score: 0.28)
 
 Top Additional Skills:
-Microsoft Office, Linux, Agile, AWS, Terraform, Jenkins, Flutter, boto3
+Linux, Microsoft Office, Flutter, Agile, AWS, Terraform, Jenkins, boto3
 
 Top Developer Tools:
-Git, Power Automate, VS Code, Firebase, Docker, PyCharm, Jupyter, WordPress, SharePoint
+VS Code, Docker, Git, PyCharm, Power Automate, Firebase, Jupyter, WordPress, SharePoint
 
 Top Languages:
-C, R, HTML/CSS, Python, C++, JQuery, ReactJS, Visual Basic, JavaScript, Java
+Java, C, C++, R, JavaScript, HTML/CSS, Python, JQuery, ReactJS, Visual Basic
 
 Top Technologies:
-NumPy, Pandas, scikit-learn, tensorflow, Flask, Express.js, Node.js, PowerShell
+Numpy, Pandas, scikit-learn, tensorflow, Flask, Express.js, Node.js, PowerShell

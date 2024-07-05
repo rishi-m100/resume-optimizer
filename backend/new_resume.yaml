@@ -94,11 +94,11 @@ research:
         pair human preference data.
     group: FOCAL Lab@UIUC
 technical-skills:
-  languages: C, R, HTML/CSS, Python, C++, JQuery, ReactJS, Visual Basic, JavaScript,
-    Java
-  technologies: NumPy, Pandas, scikit-learn, tensorflow, Flask, Express.js, Node.js,
+  languages: Java, C, C++, R, JavaScript, HTML/CSS, Python, JQuery, ReactJS, Visual
+    Basic
+  technologies: Numpy, Pandas, scikit-learn, tensorflow, Flask, Express.js, Node.js,
     PowerShell
-  developer-tools: Git, Power Automate, VS Code, Firebase, Docker, PyCharm, Jupyter,
+  developer-tools: VS Code, Docker, Git, PyCharm, Power Automate, Firebase, Jupyter,
     WordPress, SharePoint
-  additional-skills: Microsoft Office, Linux, Agile, AWS, Terraform, Jenkins, Flutter,
+  additional-skills: Linux, Microsoft Office, Flutter, Agile, AWS, Terraform, Jenkins,
     boto3

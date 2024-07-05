@@ -1,0 +1,22 @@
+
+Job Title: 2025 Technology Summer Analyst Program (New York)
+Company: Morgan Stanley
+
+Description:
+Summer Analyst program at Morgan Stanley for development, engineering, or business & data analytics teams.  Includes training, live project experience, networking, and community service.
+
+Education Requirements:
+Bachelor's or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, Mathematics, Physics, Software Engineering, Business, Economics, or other related technical or business majors.
+
+Skills:
+P, r, o, b, l, e, m, -, s, o, l, v, i, n, g, ,,  , c, o, m, m, u, n, i, c, a, t, i, o, n, ,,  , t, e, a, m, w, o, r, k, ,,  , a, n, a, l, y, t, i, c, a, l,  , s, k, i, l, l, s, ,,  , L, i, n, u, x, /, U, n, i, x,  , a, n, d,  , W, i, n, d, o, w, s, ,,  , p, r, o, g, r, a, m, m, i, n, g,  , l, a, n, g, u, a, g, e, s,  , (, C, ,,  , C, +, +, ,,  , J, a, v, a, ,,  , C, #, ), ,,  , o, b, j, e, c, t, -, o, r, i, e, n, t, e, d,  , d, e, v, e, l, o, p, m, e, n, t, ,,  , d, a, t, a,  , s, t, r, u, c, t, u, r, e, s, ,,  , a, l, g, o, r, i, t, h, m, s, ,,  , c, o, m, p, l, e, x, i, t, y,  , t, h, e, o, r, y, ,,  , d, a, t, a, b, a, s, e,  , a, n, d,  , s, c, r, i, p, t, i, n, g,  , s, k, i, l, l, s, .
+
+Key Responsibilities:
+Design, develop and maintain applications, Gather and analyze requirements, Make system design decisions, Evaluate, integrate and develop software, Test and deploy applications, Develop high-performing trading systems, Evolve complex workflows, Develop cutting-edge systems, Provide tools, applications and platforms, Manage networks, hardware, operating systems and databases, Develop websites, Manage Windows systems, Develop client reporting delivery systems, Analyze, capture, and validate requirements, Solve business challenges in an agile fashion, Provide technical, data analytics, data science, and process excellence skills
+
+Experience Level: Entry Level
+Location: New York
+Employment Type: Internship
+
+Keywords:
+Technology, Summer Analyst, Morgan Stanley, Development, Engineering, Business & Data Analytics, Training, Live Project, Networking, Community Service, Computer Science, Computer Engineering, Electrical Engineering, Mathematics, Physics, Software Engineering, Business, Economics, Problem-solving, Communication, Teamwork, Analytical Skills, Linux/Unix, Windows, Programming Languages, C, C++, Java, C#, Object-Oriented Development, Data Structures, Algorithms, Complexity Theory, Database, Scripting Skills, Agile, Technical Skills, Data Analytics, Data Science, Process Excellence, New York, Internship
