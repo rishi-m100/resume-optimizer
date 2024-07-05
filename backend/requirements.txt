@@ -1,11 +1,9 @@
-Flask==2.2.5
-Flask_Cors==4.0.0
-nltk==3.8.1
-pdf2image==1.17.0
-# protobuf==5.27.2
-Requests==2.32.3
-scikit_learn==1.4.2
-Werkzeug==2.2.3
-gunicorn
-google-generativeai==0.7.1
-protobuf==4.25.3
+flask
+flask_cors
+werkzeug
+pdf2image
+PyYAML
+python-dotenv
+google-generativeai
+nltk
+scikit-learn
