@@ -3,7 +3,7 @@ information:
   github: github.com/rishi-m100
   linkedin: linkedin.com/in/rishimulchandani
   location: Urbana, IL
-  name: Rishi Mulchandani
+  name: RISHI MULCHANDANI
   phone: (202)-680-9661
 education:
   degree: Bachelor of Science
@@ -23,7 +23,7 @@ experience:
         S3, tagging schemes, CloudFormation, etc. working with configuration management
         tools like Terraform, Salt, and Ansible.
       - Implementing cloud-based monitoring, alerting and reporting with Datadog,
-        Logzio, InfluxDB, CloudWatch, Catchpoint, ELK, Grafana, etc.
+        Logz.io, InfluxDB, CloudWatch, Catchpoint, ELK, Grafana, etc.
     location: Newton, MA
     title: Site Reliability Engineer Intern
   - company: Criterion Systems
@@ -32,9 +32,9 @@ experience:
       - Managing backend automation and scripting for the Mercury Correspondence System
         SharePoint site for the US Department of Agriculture (USDA) Forest Service
         (FS) through cloud computing/software development.
-      - Utilizing Microsoft SharePoint, PowerPoint, Shell, Power Automate, and Excel
-        VBA to resolve technical issues for the FS Mercury Correspondence System,
-        ultimately reducing memory usage by more than 60%.
+      - Utilizing Microsoft SharePoint, PowerShell, Power Automate, and Excel VBA
+        to resolve technical issues for the FS Mercury Correspondence System, ultimately
+        reducing memory usage by more than 60%.
       - Led the intern proposal group project to successfully develop a solution for
         a service-based innovation model.
     location: Vienna, VA
@@ -94,11 +94,11 @@ research:
         pair human preference data.
     group: FOCAL Lab@UIUC
 technical-skills:
-  languages: Java, C, C++, R, JavaScript, HTML/CSS, Python, JQuery, ReactJS, Visual
-    Basic
-  technologies: Numpy, Pandas, scikit-learn, tensorflow, Flask, Express.js, Node.js,
+  languages: C, R, HTML/CSS, Python, C++, JQuery, ReactJS, Visual Basic, JavaScript,
+    Java
+  technologies: NumPy, Pandas, scikit-learn, tensorflow, Flask, Express.js, Node.js,
     PowerShell
-  developer-tools: Power Automate, Git, VS Code, Docker, PyCharm, Firebase, Jupyter,
+  developer-tools: Git, Power Automate, VS Code, Firebase, Docker, PyCharm, Jupyter,
     WordPress, SharePoint
-  additional-skills: Linux, Flutter, Microsoft Office, Agile, AWS, Terraform, Jenkins,
+  additional-skills: Microsoft Office, Linux, Agile, AWS, Terraform, Jenkins, Flutter,
     boto3

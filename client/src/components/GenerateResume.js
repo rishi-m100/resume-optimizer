@@ -12,23 +12,17 @@ function GenerateResume() {
     setStatus("Processing...");
     try {
       // Run model.py
-      const modelResponse = await axios.post(
-        "http://127.0.0.1:5000/api/run-model"
-      );
+      const modelResponse = await axios.post("/api/run-model");
       console.log("Model response:", modelResponse.data);
       setStatus("Optimizing with Machine Learning...");
 
       // Run reconstruct.py
-      const reconstructResponse = await axios.post(
-        "http://127.0.0.1:5000/api/run-reconstruct"
-      );
+      const reconstructResponse = await axios.post("/api/run-reconstruct");
       console.log("Reconstruct response:", reconstructResponse.data);
       setStatus("Generating Resume...");
 
       // Generate resume
-      const generateResponse = await axios.post(
-        "http://127.0.0.1:5000/api/generate-resume"
-      );
+      const generateResponse = await axios.post("/api/generate-resume");
       console.log("Generate resume response:", generateResponse.data);
 
       // Set PDF URL and status

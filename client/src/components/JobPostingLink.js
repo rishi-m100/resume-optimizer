@@ -14,7 +14,7 @@ function JobPostingLink({ onScrapingStatus }) {
     setSubmittedLink(link);
     setShowPreview(true); // Reset preview visibility on new submission
     try {
-      const response = await fetch("http://127.0.0.1:5000/scrape-job-posting", {
+      const response = await fetch("/scrape-job-posting", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

@@ -1,37 +1,37 @@
 Top Items Across All Resumes:
 
 Top 4 Experiences:
-- Criterion Systems: Software Engineering Intern (Score: 0.39)
-- Johns Hopkins University Applied Physics Laboratory: Research/Machine Learning Intern (Score: 0.34)
-- CyberArk: Site Reliability Engineer Intern (Score: 0.25)
-- University of Maryland, Baltimore County: Research Assistant (Score: 0.23)
+- Criterion Systems: Software Engineering Intern (Score: 0.31)
+- Johns Hopkins University Applied Physics Laboratory: Research/Machine Learning Intern (Score: 0.31)
+- University of Maryland, Baltimore County: Research Assistant (Score: 0.19)
+- CyberArk: Site Reliability Engineer Intern (Score: 0.19)
 
 Top 2 Projects:
-- Stock Price Prediction App (Score: 0.40)
-- ML Stack Overflow Question Scraper (Score: 0.37)
+- ML Stack Overflow Question Scraper (Score: 0.31)
+- Stock Price Prediction App (Score: 0.25)
 
 Top 3 Involvements:
-- Quant Education Club (Score: 0.32)
-- SIG AIDA Applied Chair (Score: 0.31)
-- FOCAL Lab@UIUC Research (Score: 0.31)
+- Quant Education Club (Score: 0.22)
+- SIG AIDA Applied Chair (Score: 0.19)
+- FOCAL Lab@UIUC Research (Score: 0.19)
 
 Top 4 Courseworks:
-- Artificial Intelligence (Score: 0.35)
-- Machine Learning (Score: 0.35)
-- Data Structures (Score: 0.34)
-- Software Design (Score: 0.11)
+- Artificial Intelligence (Score: 0.29)
+- Machine Learning (Score: 0.29)
+- Data Structures (Score: 0.24)
+- Software Design (Score: 0.15)
 
 Top Research:
-- ['Conducting research on offline reinforcement learning from human feedback (RLHF) at the University of Illinois at Urbana-Champaign under Dr. Gagandeep Singh and graduate mentor Yinglun Xu.', 'Developing novel methodologies for training reward models from state-action pair human preference data.'] (Score: 0.36)
+- ['Conducting research on offline reinforcement learning from human feedback (RLHF) at the University of Illinois at Urbana-Champaign under Dr. Gagandeep Singh and graduate mentor Yinglun Xu.', 'Developing novel methodologies for training reward models from state-action pair human preference data.'] (Score: 0.30)
 
 Top Additional Skills:
-Linux, Flutter, Microsoft Office, Agile, AWS, Terraform, Jenkins, boto3
+Microsoft Office, Linux, Agile, AWS, Terraform, Jenkins, Flutter, boto3
 
 Top Developer Tools:
-Power Automate, Git, VS Code, Docker, PyCharm, Firebase, Jupyter, WordPress, SharePoint
+Git, Power Automate, VS Code, Firebase, Docker, PyCharm, Jupyter, WordPress, SharePoint
 
 Top Languages:
-Java, C, C++, R, JavaScript, HTML/CSS, Python, JQuery, ReactJS, Visual Basic
+C, R, HTML/CSS, Python, C++, JQuery, ReactJS, Visual Basic, JavaScript, Java
 
 Top Technologies:
-Numpy, Pandas, scikit-learn, tensorflow, Flask, Express.js, Node.js, PowerShell
+NumPy, Pandas, scikit-learn, tensorflow, Flask, Express.js, Node.js, PowerShell

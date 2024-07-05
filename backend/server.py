@@ -14,8 +14,12 @@ from dotenv import load_dotenv
 load_dotenv()
 apiKey = os.getenv('API_KEY_NAME')
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='./build', static_url_path='/')
 CORS(app)
+
+@app.route("/")
+def serve():
+    return send_from_directory(app.static_folder, 'index.html')
 
 ALLOWED_EXTENSIONS = {'pdf'}
 genai.configure(api_key=apiKey)
@@ -238,7 +242,7 @@ def generate_resume():
         subprocess.run(['python', 'scripts/generate_resume.py', '../backend/new_resume.yaml', 'output.tex'], cwd='../resume_generator', check=True)
         pdf_path = '../resume_generator/outputs/output.pdf'
         if os.path.exists(pdf_path):
-            return jsonify({'pdfUrl': f'http://127.0.0.1:5000/download-pdf/output.pdf'}), 200
+            return jsonify({'pdfUrl': f'/download-pdf/output.pdf'}), 200
         else:
             return jsonify({'error': 'PDF file not generated'}), 500
     except subprocess.CalledProcessError as e:
