@@ -1,0 +1,65 @@
+information:
+  name: Jane Doe
+  location: San Francisco, CA
+  phone: (555) 123-4567
+  email: janedoe@example.com
+  linkedin: linkedin.com/in/janedoe
+  github: github.com/janedoe
+
+education:
+  school: Stanford University
+  gpa: 3.8
+  graduation: June 2023
+  degree: Bachelor of Science
+  major: Computer Science
+  location: Stanford, CA
+  relevant-coursework: Algorithms, Data Structures, Machine Learning, Operating Systems, Database Systems, Computer Networks
+  involvement: President of Women in Computer Science, Member of ACM Student Chapter, Research Assistant in AI Lab
+
+technical-skills:
+  languages: Python, Java, C++, JavaScript, SQL
+  developer-tools: Git, Docker, Jenkins, Visual Studio Code, IntelliJ IDEA
+  technologies: AWS, Kubernetes, React, Node.js, TensorFlow, PyTorch
+  additional-skills: Agile methodologies, Test-driven development, Continuous integration/continuous deployment (CI/CD), RESTful APIs
+
+experience:
+  - company: Google
+    title: Software Engineering Intern
+    location: Mountain View, CA
+    dates: June 2022 -- August 2022
+    description:
+      - Developed and optimized backend services in Java to improve data processing efficiency by 30%.
+      - Collaborated with cross-functional teams to design and implement new features for internal tools.
+      - Wrote unit and integration tests to ensure code quality and reliability.
+  - company: Microsoft
+    title: Program Manager Intern
+    location: Redmond, WA
+    dates: June 2021 -- August 2021
+    description:
+      - Led a team of interns to develop a prototype of a new feature for Microsoft Teams, resulting in positive feedback from stakeholders.
+      - Conducted user research and gathered requirements to ensure product alignment with customer needs.
+      - Created detailed project plans and timelines, and managed project milestones.
+
+research:
+  - group: Stanford AI Lab
+    dates: September 2021 -- May 2023
+    description:
+      - Conducted research on natural language processing techniques to improve chatbot performance.
+      - Published findings in the IEEE Conference on Artificial Intelligence.
+      - Collaborated with professors and graduate students to develop new algorithms for text classification.
+
+projects:
+  - title: Personal Finance Tracker
+    link: github.com/janedoe/finance-tracker
+    date: January 2023
+    tech: React, Node.js, MongoDB, Express
+    description:
+      - Developed a web application to help users track their personal finances, including income, expenses, and budgeting.
+      - Implemented user authentication and data encryption for secure access.
+  - title: Image Classification with Deep Learning
+    link: github.com/janedoe/image-classification
+    date: October 2022
+    tech: Python, TensorFlow, Keras
+    description:
+      - Created a deep learning model to classify images into different categories with 95% accuracy.
+      - Trained the model on a large dataset of labeled images and evaluated its performance using various metrics.

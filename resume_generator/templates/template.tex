@@ -1,0 +1,317 @@
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.3in}
+\addtolength{\evensidemargin}{-0.3in}
+\addtolength{\textwidth}{.6in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+
+% \end{tabular*}
+
+\begin{center}
+    {\Huge \scshape  {{information.name}}  } \\ \vspace{1pt}
+                \vspace{-1pt}
+    {{information.location}} \\ \vspace{0pt}
+            \vspace{0pt}
+    \small \raisebox{-0.1\height} {{information.phone}} ~ $\vert$ \href{mailto:{{information.email}}}{\raisebox{-0.2\height}\ \underline{{{information.email}}}} ~ $\vert$
+        \vspace{4pt}
+    \href{https://{{information.linkedin}}}{\raisebox{-0.2\height}\ \underline{{{information.linkedin}}}}  ~$\vert$
+    \href{https://{{information.github}}}{\raisebox{-0.2\height}\ \underline{{{information.github}}}}
+
+    \vspace{-14pt}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {{{education.school}} (GPA: {{education.gpa}}/4.0)}{{{education.graduation}}}
+      {{{education.degree}} in {{education.major}}}{{{education.location}}}
+          \vspace{-2pt}
+
+    {\textbf{Relevant Coursework:}  {{education.relevant-coursework}}}
+          \vspace{-2pt}
+
+    {\textbf{Clubs/Involvement:} {{education.involvement}}}
+
+  \resumeSubHeadingListEnd
+
+% %------RELEVANT COURSEWORK-------
+% \section{Relevant Coursework}
+%     %\resumeSubHeadingListStart
+%         \begin{multicols}{4}
+%             \begin{itemize}[itemsep=0pt, parsep=3pt]
+%                 \item Data Structures
+%                 \item Probability \& Stats
+%                 % \item Discrete Structures
+%                 \item Software Design
+%                 \item Artificial Intelligence
+%                 % \item Calculus III
+%                 % \item Linear Algebra
+
+%             \end{itemize}
+%         \end{multicols}
+%         \vspace*{2.0\multicolsep}
+%     %\resumeSubHeadingListEnd
+
+
+%
+ \vspace{-20pt}
+
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: {{technical-skills.languages}}} \\
+     \textbf{Developer Tools}{: {{technical-skills.developer-tools}}} \\
+     \textbf{Technologies/Frameworks}{: {{technical-skills.technologies}}} \\
+    \textbf{Additional Skills}{: {{technical-skills.additional-skills}}}
+    }}
+ \end{itemize}
+ \vspace{-22pt}
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+        {{{experience.0.company}}}{{{experience.0.dates}}} 
+        {{{experience.0.title}}}{{{experience.0.location}}}
+    \resumeItemListStart
+        \resumeItem{{{experience.0.description.0}}}
+        \resumeItem{{{experience.0.description.1}}}
+        \resumeItem{{{experience.0.description.2}}}
+        \resumeItem{{{experience.0.description.3}}}
+        \resumeItem{{{experience.0.description.4}}}
+        \resumeItem{{{experience.0.description.5}}}
+
+      \resumeItemListEnd
+% \vspace{-12px}
+          \vspace{-2pt}
+          
+    \resumeSubheading
+        {{{experience.1.company}}}{{{experience.1.dates}}} 
+        {{{experience.1.title}}}{{{experience.1.location}}}
+    \resumeItemListStart
+        \resumeItem{{{experience.1.description.0}}}
+        \resumeItem{{{experience.1.description.1}}}
+        \resumeItem{{{experience.1.description.2}}}
+        \resumeItem{{{experience.1.description.3}}}
+        \resumeItem{{{experience.1.description.4}}}
+        \resumeItem{{{experience.1.description.5}}}
+      \resumeItemListEnd
+          \vspace{-2pt}
+
+    \resumeSubheading
+        {{{experience.2.company}}}{{{experience.2.dates}}} 
+        {{{experience.2.title}}}{{{experience.2.location}}}
+      \resumeItemListStart
+        \resumeItem{{{experience.2.description.0}}}
+        \resumeItem{{{experience.2.description.1}}}
+        \resumeItem{{{experience.2.description.2}}}
+        \resumeItem{{{experience.2.description.3}}}
+        \resumeItem{{{experience.2.description.4}}}
+        \resumeItem{{{experience.2.description.5}}}
+    \resumeItemListEnd
+          \vspace{-2pt}
+
+    \resumeSubheading
+        {{{experience.3.company}}}{{{experience.3.dates}}} 
+        {{{experience.3.title}}}{{{experience.3.location}}}
+      \resumeItemListStart
+        \resumeItem{{{experience.3.description.0}}}
+        \resumeItem{{{experience.3.description.1}}}
+        \resumeItem{{{experience.3.description.2}}}
+        \resumeItem{{{experience.3.description.3}}}
+        \resumeItem{{{experience.3.description.4}}}
+        \resumeItem{{{experience.3.description.5}}}
+    \resumeItemListEnd
+
+    
+  %   \resumeSubheading
+  %     {Maryland Innovation and Security Institute}{June 2021 -- August 2021}
+  %     {Cybersecurity Intern}{Columbia, MD}
+  %     \resumeItemListStart
+  %       \resumeItem{Learned about cybersecurity and applied knowledge to real-world national cyber problems. Led a group of 6 interns conducting and presenting on a case study on an emerging cyber threat.}
+  %   \resumeItemListEnd
+  
+  \resumeSubHeadingListEnd
+  \vspace{-20px}
+  \section{Research}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {{{research.0.group}}}{{{research.0.dates}}}
+      {}{}
+      \vspace{-20px}
+      \resumeItemListStart
+        \resumeItem{{{research.0.description.0}}}
+        \resumeItem{{{research.0.description.1}}}
+        \resumeItem{{{research.0.description.2}}}
+        \resumeItem{{{research.0.description.3}}}
+      %   \resumeItem{Collaborating with team to explore innovative approaches, drive research initiatives, and having the ultimate goal to publish findings in peer-reviewed journals and conferences.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+\vspace{-20pt}
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \vspace{-5pt}
+    \resumeSubHeadingListStart
+    \resumeProjectHeading
+          {\href{{{projects.0.link}}}{\raisebox{-0.2\height}\ \underline{\textbf{{{projects.0.title}}}}}~ $|$ \emph{{{projects.0.tech}}}}{{{projects.0.date}}}
+          \resumeItemListStart
+            \resumeItem{{{projects.0.description.0}}}
+            \resumeItem{{{projects.0.description.1}}}
+            \resumeItem{{{projects.0.description.2}}}
+            \resumeItem{{{projects.0.description.3}}}
+          \resumeItemListEnd 
+                              \vspace{-19pt}
+
+    \resumeProjectHeading
+        {\href{{{projects.1.link}}}{\raisebox{-0.2\height}\ \underline{\textbf{{{projects.1.title}}}}}~ $|$ \emph{{{projects.1.tech}}}}{{{projects.1.date}}}
+        \resumeItemListStart
+        \resumeItem{{{projects.1.description.0}}}
+        \resumeItem{{{projects.1.description.1}}}
+        \resumeItem{{{projects.0.description.2}}}
+        \resumeItem{{{projects.0.description.3}}}
+        \resumeItemListEnd 
+                    \vspace{-13pt}
+
+      % \resumeProjectHeading
+      %    {\href{https://workout-app-498b1.web.app/}{\raisebox{-0.2\height}\ \underline{\textbf{Gym Workout App}}}~  $|$ \emph{HTML/CSS (SCSS), JavaScript, React, NodeJS, Firebase}}{August 2022}
+      %     \resumeItemListStart           
+      %     \resumeItem{Created a React web application to plan, create, and track gym workouts on a weekly basis.}
+      %       \resumeItem{Processed user-inputted information in the back-end of the app to return an organized list and plan of various potential workouts.}
+
+      %     \resumeItemListEnd 
+          
+      
+       
+    \resumeSubHeadingListEnd
+\vspace{-15pt}
+
+
+%-----------INVOLVEMENT---------------
+% \section{Leadership / Extracurricular}
+%     \resumeSubHeadingListStart
+%         \resumeSubheading{Howard County Computer Science Workshops}{Fall 2021 -- Summer 2023}{Founder/Head}{Howard County, MD}
+%             \resumeItemListStart
+%                 \resumeItem{Created a summer program for elementary and middle school students to teach them computer science skills such as coding, web development, theory, etc.}
+%                 \resumeItem{Managed a team of 5 organizers and ran weekly meetings to oversee progress and create content.}
+%                 \resumeItem{Spread the program to several different schools in the area and the local library.}
+%             \resumeItemListEnd
+        
+%     \resumeSubHeadingListEnd
+
+
+\end{document}

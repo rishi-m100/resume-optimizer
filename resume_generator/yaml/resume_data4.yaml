@@ -1,0 +1,69 @@
+information:
+  name: "David Lee"
+  location: "New York, NY"
+  phone: "(212)-555-6789"
+  email: "david.lee@example.com"
+  linkedin: "linkedin.com/in/david-lee"
+  github: "github.com/davidlee"
+
+education:
+  school: "Stanford University"
+  gpa: 3.7
+  graduation: "May 2025"
+  degree: "Bachelor of Science"
+  major: "Mechanical Engineering"
+  location: "Stanford, CA"
+  relevant-coursework: "Fluid Mechanics, Thermodynamics, Finite Element Analysis, Robotics"
+  involvement: "Engineering Club President, Formula SAE Team Member, Stanford Robotics Lab"
+
+technical-skills:
+  languages: "Java, MATLAB, C, Python, SolidWorks API"
+  developer-tools: "Git, IntelliJ IDEA, ANSYS, AutoCAD, LabVIEW"
+  technologies: "ROS (Robot Operating System), CNC Machining, 3D Printing, Arduino"
+  additional-skills: "Project Management, Technical Writing, CAD Design, Microsoft Office"
+
+experience:
+  - company: "Tech Innovators Inc."
+    title: "Mechanical Engineering Intern"
+    location: "San Jose, CA"
+    dates: "June 2024 -- August 2024"
+    description:
+      - "Designed and simulated mechanical components for next-generation consumer electronics using SolidWorks and ANSYS."
+      - "Collaborated with cross-functional teams to integrate designs into product prototypes and conducted performance testing."
+  - company: "Advanced Robotics Solutions"
+    title: "Robotics Engineer Intern"
+    location: "Boston, MA"
+    dates: "January 2024 -- May 2024"
+    description:
+      - "Programmed autonomous navigation algorithms for mobile robots using ROS and Python."
+      - "Implemented computer vision techniques for object detection and localization in indoor environments."
+  - company: "Stanford AI Lab"
+    title: "Research Assistant"
+    location: "Stanford, CA"
+    dates: "September 2023 -- December 2023"
+    description:
+      - "Investigated novel approaches to human-robot collaboration in manufacturing settings using machine learning."
+      - "Developed a prototype system for adaptive robotic assembly using reinforcement learning."
+
+research:
+  - group: "Stanford Robotics Lab"
+    dates: "February 2024 -- Present"
+    description:
+      - "Researching control strategies for dynamic bipedal locomotion in humanoid robots."
+      - "Designing and testing algorithms to improve stability and agility in challenging environments."
+
+projects:
+  - title: "Autonomous Drone Delivery System"
+    link: "https://github.com/davidlee/autonomous-drone-delivery"
+    date: "April 2024"
+    tech: "ROS, Python, PX4, OpenCV, Gazebo"
+    description:
+      - "Designed and implemented a system for autonomous delivery using drones, including path planning and obstacle avoidance."
+      - "Integrated with a web interface for user management and real-time tracking of delivery status."
+  - title: "Smart Home Energy Management System"
+    link: "https://github.com/davidlee/smart-home-energy"
+    date: "December 2023"
+    tech: "MATLAB, Python, IoT, Machine Learning"
+    description:
+      - "Developed algorithms to optimize energy usage in smart homes based on user preferences and real-time pricing data."
+      - "Implemented predictive models for appliance scheduling to minimize energy costs while ensuring user comfort."

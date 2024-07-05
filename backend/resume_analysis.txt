@@ -1,0 +1,37 @@
+Top Items Across All Resumes:
+
+Top 4 Experiences:
+- Criterion Systems: Software Engineering Intern (Score: 0.39)
+- Johns Hopkins University Applied Physics Laboratory: Research/Machine Learning Intern (Score: 0.34)
+- CyberArk: Site Reliability Engineer Intern (Score: 0.25)
+- University of Maryland, Baltimore County: Research Assistant (Score: 0.23)
+
+Top 2 Projects:
+- Stock Price Prediction App (Score: 0.40)
+- ML Stack Overflow Question Scraper (Score: 0.37)
+
+Top 3 Involvements:
+- Quant Education Club (Score: 0.32)
+- SIG AIDA Applied Chair (Score: 0.31)
+- FOCAL Lab@UIUC Research (Score: 0.31)
+
+Top 4 Courseworks:
+- Artificial Intelligence (Score: 0.35)
+- Machine Learning (Score: 0.35)
+- Data Structures (Score: 0.34)
+- Software Design (Score: 0.11)
+
+Top Research:
+- ['Conducting research on offline reinforcement learning from human feedback (RLHF) at the University of Illinois at Urbana-Champaign under Dr. Gagandeep Singh and graduate mentor Yinglun Xu.', 'Developing novel methodologies for training reward models from state-action pair human preference data.'] (Score: 0.36)
+
+Top Additional Skills:
+Linux, Flutter, Microsoft Office, Agile, AWS, Terraform, Jenkins, boto3
+
+Top Developer Tools:
+Power Automate, Git, VS Code, Docker, PyCharm, Firebase, Jupyter, WordPress, SharePoint
+
+Top Languages:
+Java, C, C++, R, JavaScript, HTML/CSS, Python, JQuery, ReactJS, Visual Basic
+
+Top Technologies:
+Numpy, Pandas, scikit-learn, tensorflow, Flask, Express.js, Node.js, PowerShell

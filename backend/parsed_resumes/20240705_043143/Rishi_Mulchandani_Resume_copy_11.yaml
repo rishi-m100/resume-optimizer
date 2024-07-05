@@ -1,0 +1,106 @@
+education:
+  degree: Bachelor of Science
+  gpa: 3.82
+  graduation: May 2026
+  involvement: FOCAL Lab@UIUC Machine Learning Research Group, ACM, Association for
+    Quantitative Trading Education
+  location: Champaign, IL
+  major: Computer Science
+  relevant-coursework: Data Structures, Probability & Stats, Software Design, Artificial
+    Intelligence, Discrete Math, Linear Algebra
+  school: University of Illinois at Urbana-Champaign
+experience:
+- company: Criterion Systems
+  dates: June 2023 - Present
+  description:
+  - Managing backend automation and scripting for the Mercury Correspondence System
+    SharePoint site for the US Department of Agriculture (USDA) Forest Service (FS),
+    through cloud computing/ software development.
+  - Utilizing Microsoft SharePoint, PowerShell, Power Automate, and Excel VBA to resolve
+    technical issues for the FS Mercury Correspondence System, ultimately reducing
+    memory usage by more than 50%.
+  - Led the intern proposal group project to successfully develop a solution for a
+    service-based innovation model.
+  location: Vienna, VA
+  title: Software Engineering Intern
+- company: Johns Hopkins University Applied Physics Laboratory
+  dates: September 2022 - May 2023
+  description:
+  - Mentored by Dr. Caglar Caglayan to develop a research paper/study on clinical
+    decision-making under uncertainty and medical prediction with ML algorithms and
+    presented to the IEEE ISEC conference.
+  - Using data from the National Hospital Ambulatory Medical Care Survey (NHAMCS),
+    successfully developed an ML framework using Logistic Regression, Random Forest,
+    and XGBoost algorithms to predict admission and critical care outcomes in patients
+    presenting to emergency departments and accurately identified socio-demographic
+    and clinical factors associated with admission/outcomes.
+  location: Laurel, MD
+  title: Research/Machine Learning Intern
+- company: University of Maryland, Baltimore County
+  dates: June 2022 - January 2023
+  description:
+  - Worked as a research assistant in Dr. Riadul Islam's UMBC VLSI-SOC Group, and
+    collaborated with undergraduate, Masters, and Ph.D. students as well as Dr. Islam
+    on to create models and collect data, using CNNs, Reinforcement, and Supervised
+    Learning for self-driving cars.
+  location: Baltimore, MD
+  title: Research Assistant
+- company: Maryland Innovation and Security Institute
+  dates: June 2021 - August 2021
+  description:
+  - Learned about cybersecurity and applied knowledge to real-world national cyber
+    problems. Led a group of 6 interns conducting and presenting on a case study on
+    an emerging cyber threat.
+  location: Columbia, MD
+  title: Cybersecurity Intern
+information:
+  email: rishi8@illinois.edu
+  github: github.com/rishi-m100
+  linkedin: linkedin.com/in/rishimulchandani
+  location: Urbana, IL
+  name: RISHI MULCHANDANI
+  phone: (202)-680-9661
+projects:
+- date: January 2024
+  description:
+  - Web app using OpenAI's LLM to generate study plans and practice questions from
+    imputed audio/text files.
+  - React frontend and Flask backend breaking down content into sizeable chunks and
+    providing practice study problems, making use of Python modules for PDF text extraction
+    and audio transcription.
+  link: null
+  tech: Flask, Python, OpenAI API, React, Node.JS, Firebase
+  title: AI Study Plan Generator App
+- date: December 2023
+  description:
+  - Python program to scrape data from Stack Overflow to grab top 50 new questions
+    (question title and URL).
+  - Scraped data then stored in MongoDB database and displayed to user via React App.
+  link: null
+  tech: Python, React, Node.JS, Express.JS, MongoDB, CORS
+  title: Stack Overflow Question Scraper
+- date: August 2022
+  description:
+  - Created a React web application to plan, create, and track gym workouts on a weekly
+    basis.
+  - Processed user-inputted information in the back-end of the app to return an organized
+    list and plan of various potential workouts.
+  link: null
+  tech: HTML/CSS (SCSS), JavaScript, React, Node.JS, Firebase
+  title: Gym Workout App
+research:
+- dates: June 2022 - January 2023
+  description:
+  - Worked as a research assistant in Dr. Riadul Islam's UMBC VLSI-SOC Group, and
+    collaborated with undergraduate, Masters, and Ph.D. students as well as Dr. Islam
+    on to create models and collect data, using CNNs, Reinforcement, and Supervised
+    Learning for self-driving cars.
+  group: UMBC VLSI-SOC Group
+technical-skills:
+  additional-skills: Agile, Linux, Flutter, Microsoft Office
+  developer-tools: Git, Docker, VS Code, Jupyter, Firebase, WordPress, SharePoint,
+    PyCharm, Power Automate
+  languages: Python, Java, C, C++, R, HTML/CSS, JavaScript, JQuery, ReactJS, Visual
+    Basic
+  technologies: Numpy, Pandas, scikit-learn, matplotlib, Flask, Express.js, Node.js,
+    PowerShell

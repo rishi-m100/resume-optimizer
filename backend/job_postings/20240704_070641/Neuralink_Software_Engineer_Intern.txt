@@ -1,0 +1,22 @@
+
+Job Title: Software Engineer Intern
+Company: Neuralink
+
+Description:
+Neuralink is developing implantable brain-computer interfaces. This role involves building and maintaining infrastructure for the company, including hardware deployment, cloud architecture, and system monitoring. The intern will collaborate with cross-functional teams and provide technical leadership.
+
+Education Requirements:
+Not specified
+
+Skills:
+Robust software engineering skills, Solid understanding of core networking protocols (TCP/IP, UDP, ARP, DNS, DHCP), Experience administrating modern Linux systems, Experience building hybrid cloud/on-prem infrastructure, Strong computer security fundamentals, Experience with technical skills outside of the classroom
+
+Key Responsibilities:
+Collaborate closely with cross-functional teams, Solve problems spanning from physical hardware deployment to high-level cloud architecture, Drive initiatives for best practices, Extract critical metrics from systems, Partner with teams across the company to build a robust infrastructure, Provide technical leadership in software engineering
+
+Experience Level: Intern
+Location: Fremont, CA, USA
+Employment Type: INTERN
+
+Keywords:
+Software, Engineer, Intern, Neuralink, Infrastructure, Systems, Hardware, Cloud, Architecture, Networking, Protocols, Linux, Security, Technical, Experience, Team, Collaborate, Deployment, Monitoring, Leadership

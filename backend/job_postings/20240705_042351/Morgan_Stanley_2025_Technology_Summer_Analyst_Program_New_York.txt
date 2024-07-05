@@ -1,0 +1,22 @@
+
+Job Title: 2025 Technology Summer Analyst Program (New York)
+Company: Morgan Stanley
+
+Description:
+Summer Analyst program at Morgan Stanley's Technology division in New York, offering a 10-week project-based experience in development, engineering, or business & data analytics teams. The program includes training, networking, team-building, and community service opportunities.
+
+Education Requirements:
+Bachelor's or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, Mathematics, Physics, Software Engineering, Business, Economics, or other related fields.
+
+Skills:
+Problem-solving, Communication, Teamwork, Analytical skills, Linux/Unix, Windows, Programming languages (C, C++, Java, C#), Object-oriented development, Data structures, Algorithms, Complexity theory, Database skills, Scripting, Technical knowledge, Data analytics, Data science, Process excellence
+
+Key Responsibilities:
+Design, develop, and maintain applications, Gather and analyze requirements, Make system design decisions, Evaluate, integrate, and develop software, Test and deploy applications to production, Develop high-performing, low-latency electronic trading systems, Evolve complex workflows and life-cycle management capabilities, Develop cutting-edge systems, Provide tools, applications, and platforms, Manage networks, computing hardware, operating systems, and databases, Develop websites, manage Windows plant, and develop client reporting delivery system, Analyze, capture, and validate requirements, Solve business challenges, Provide technical, data analytics, data science, and process excellence skills, Support product and data analysis, Develop end-to-end solutions
+
+Experience Level: Entry Level
+Location: New York
+Employment Type: Internship
+
+Keywords:
+Technology, Summer Analyst, Morgan Stanley, New York, Development, Engineering, Business & Data Analytics, Project-based, Training, Networking, Team-building, Community Service, Computer Science, Computer Engineering, Electrical Engineering, Mathematics, Physics, Software Engineering, Business, Economics, Linux/Unix, Windows, Programming languages, C, C++, Java, C#, Object-oriented development, Data structures, Algorithms, Complexity theory, Database skills, Scripting, Technical knowledge, Data analytics, Data science, Process excellence, Problem-solving, Communication, Teamwork, Analytical skills

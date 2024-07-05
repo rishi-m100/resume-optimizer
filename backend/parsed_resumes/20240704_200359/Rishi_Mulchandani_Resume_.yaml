@@ -1,0 +1,92 @@
+education:
+  degree: Bachelor of Science
+  gpa: 3.9
+  graduation: May 2026
+  involvement: FOCAL Lab@UIUC RL Research, ACM, Association for Quant Trading Education
+  location: Champaign, IL
+  major: Computer Science
+  relevant-coursework: Probability & Stats, Artificial Intelligence, Machine Learning,
+    Software Design
+  school: University of Illinois at Urbana-Champaign
+experience:
+- company: Criterion Systems
+  dates: June 2023 - Present
+  description:
+  - Managing backend automation and scripting for the Mercury Correspondence System
+    SharePoint site for the US Department of Agriculture (USDA) Forest Service (FS)
+    through cloud computing/software development.
+  - Utilizing Microsoft SharePoint, PowerShell, Power Automate, and Excel VBA to resolve
+    technical issues for the FS Mercury Correspondence System, ultimately reducing
+    memory usage by more than 50%.
+  - Led the intern proposal group project to successfully develop a solution for a
+    service-based innovation model.
+  location: Vienna, VA
+  title: Software Engineering Intern
+- company: Johns Hopkins University Applied Physics Laboratory
+  dates: September 2022 - May 2023
+  description:
+  - Mentored by Dr. Caglar Caglayan to develop a research paper/study on clinical
+    decision-making under uncertainty and medical prediction with ML algorithms and
+    presented to the IEEE ISEC conference.
+  - Using data from the National Hospital Ambulatory Medical Care Survey (NHAMCS),
+    successfully developed an ML framework using Logistic Regression, Random Forest,
+    and XGBoost algorithms to predict admission and critical care outcomes in patients
+    presenting to emergency departments and accurately identified socio-demographic
+    and clinical factors associated with admission/outcomes.
+  location: Laurel, MD
+  title: Research/Machine Learning Intern
+- company: University of Maryland, Baltimore County
+  dates: June 2022 - January 2023
+  description:
+  - Worked as a research assistant in Dr. Riadul Islam's UMBC VLSI-SOC Group, and
+    collaborated with undergraduate, Masters, and PhD students as well as Dr. Islam
+    on to create models and collect data using CNNs, Reinforcement, and Supervised
+    Learning for self-driving cars.
+  - Currently developing new CNN and physical hardware for autonomous driving on model
+    RC car with 3D printed chassis, camera, servo driver, and Raspberry Pi.
+  location: Baltimore, MD
+  title: Research Assistant
+information:
+  email: rishi8@illinois.edu
+  github: github.com/rishi-m100
+  linkedin: linkedin.com/in/rishimulchandani
+  location: Urbana, IL
+  name: Rishi Mulchandani
+  phone: (202)-680-9661
+projects:
+- date: January 2024
+  description:
+  - Web app using OpenAI's LLM to generate study plans and practice questions from
+    inputted audio/text files.
+  - React frontend and Flask backend breaking down content into sizeable chunks and
+    providing practice study problems, making use of Python modules for PDF text extraction
+    and audio transcription.
+  link: null
+  tech: Flask, Python, OpenAI API, React, NodeJS, Firebase
+  title: AI Study Plan Generator App
+- date: December 2023
+  description:
+  - Python program to scrape data from Stack Overflow to grab top 50 new questions
+    (question title and URL).
+  - Scraped data then stored in MongoDB database and displayed to user via React App.
+  - Working to integrate with LLM using Retrieval-Augmented Generation (RAG).
+  link: null
+  tech: Python, React, NodeJS, ExpressJS, MongoDB, CORS
+  title: Stack Overflow Question Scraper
+research:
+- dates: February 2024 - Present
+  description:
+  - Conducting research on offline reinforcement learning from human feedback (RLHF)
+    at the University of Illinois at Urbana-Champaign under Dr. Gagandeep Singh and
+    graduate mentor Yinglun Xu.
+  - Developing novel methodologies for training reward models from state-action pair
+    human preference data.
+  group: FOCAL Lab@UIUC
+technical-skills:
+  additional-skills: Agile, Linux, Flutter, Microsoft Office
+  developer-tools: Git, Docker, VS Code, Jupyter, Firebase, WordPress, SharePoint,
+    PyCharm, Power Automate
+  languages: Python, Java, C, C++, R, HTML/CSS, JavaScript, JQuery, ReactJS, Visual
+    Basic
+  technologies: NumPy, Pandas, scikit-learn, tensorflow, Flask, Express.js, Node.js,
+    PowerShell

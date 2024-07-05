@@ -1,0 +1,22 @@
+
+Job Title: Software Engineer Intern
+Company: Neuralink
+
+Description:
+The Infrastructure Team builds the foundation that enables the company to operate safely, robustly, and move at light-speed. This role will integrate tightly with teams across the company, and span all layers of the work environment stack.
+
+Education Requirements:
+Not explicitly mentioned, but likely a Bachelor's degree in Computer Science or a related field.
+
+Skills:
+Robust software engineering skills, Solid understanding of core networking protocols, Experience administrating modern Linux systems, Experience building hybrid cloud/on-prem infrastructure, Strong computer security fundamentals, Experience with the application of technical skills outside of the classroom
+
+Key Responsibilities:
+Collaborate closely with cross-functional teams, Solve problems from hardware deployment to cloud architecture, Drive initiatives for best practices, Extract critical metrics from systems, Build robust infrastructure, Provide technical leadership
+
+Experience Level: Intern
+Location: Fremont, CA, USA
+Employment Type: INTERN
+
+Keywords:
+Software, Engineer, Intern, Neuralink, Infrastructure, Team, Systems, Cloud, Networking, Linux, Security, Experience, Protocols, Hardware, Technical, Skills, Deployment, Architecture, Best, Practices, Metrics, Robust, Collaboration, Leadership, Company, Fremont, California, USA, Brain, Computer, Interfaces, Devices, Paralysis, Mobility, Independence, Technologies, Abilities, Community, World, Operating, System, Surgical, Robot, Performance, Reliability, Microfab, Cleanroom, Efficiency, Implant, Thread, Manufacturing, Clinical, Patient, Registry, Research, Webgrid, Brain, Computer, Interface, BCI, Tasks, Tools, Automate, Processes, TCP/IP, UDP, ARP, DNS, DHCP, OSI, Model, Hybrid, On-Prem, Codified, Trade-Offs, Fundamentals, Simpler, Faster, Secure, Laboratory, Extracurricular, Open Source, Contributions, Volunteering, Personal Projects, Internship, Work, IAC, Terraform, Docker, Packer, Ansible, Cloud-Init, Kickstart, Compiled, Languages, Rust, C/C++, Cryptographic, Protocols, Authentication, Schemes, TLS, x509, 802.1x, U2F, SAML, Systems Administration, Windows, macOS, Production Lines, Medical, Systems, Laboratory Settings, Pay Transparency, Hourly Rate, Compensation, Package, Salary, Equity, Level, Organization, Benefits, Medical, Dental, Vision, Insurance, PPO, Holidays, Commuter, Meals, 401(k), Parental Leave, Flexible Time Off, Employees, Interns, Excluded, Studies, Women, BIPOC, Candidates, Apply, Mission, Description, Encourage, Equal Opportunity, Employment, Practices, Applicants, Race, Color, Religion, Gender, National Origin, Age, Disability, Marital Status, Military Status, Genetic Information, Protected, Federal, State, Local, Laws, Policy, Aspects, Relationship, Recruitment, Hiring, Compensation, Promotion, Transfer, Disciplinary Action, Layoff, Return, Training, Social, Recreational, Programs, Unlawfully, Discriminating, Prohibited, Basis, Accommodation, Interview, Process, Modifications, Adjustments, Enable, Fully Participate, Alternate Formats, Read Aloud, Accessible Location, Service Dog, Sign Language, Interpreter, Present

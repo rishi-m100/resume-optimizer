@@ -1,0 +1,290 @@
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.3in}
+\addtolength{\evensidemargin}{-0.3in}
+\addtolength{\textwidth}{.6in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+
+% \end{tabular*}
+
+\begin{center}
+    {\Huge \scshape  JANE DOE  } \\ \vspace{1pt}
+                \vspace{-1pt}
+    San Francisco, CA \\ \vspace{0pt}
+            \vspace{0pt}
+    \small \raisebox{-0.1\height} (555) 123-4567 ~ $\vert$ \href{mailto:janedoe@example.com}{\raisebox{-0.2\height}\ \underline{janedoe@example.com}} ~ $\vert$
+        \vspace{4pt}
+    \href{https://linkedin.com/in/janedoe}{\raisebox{-0.2\height}\ \underline{linkedin.com/in/janedoe}}  ~$\vert$
+    \href{https://github.com/janedoe}{\raisebox{-0.2\height}\ \underline{github.com/janedoe}}
+
+    \vspace{-14pt}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Stanford University (GPA: 3.8/4.0)}{June 2023}
+      {Bachelor of Science in Computer Science}{Stanford, CA}
+          \vspace{-2pt}
+
+    {\textbf{Relevant Coursework:}  Machine Learning, Data Structures, Software Design, Computer Networks}
+          \vspace{-2pt}
+
+    {\textbf{Clubs/Involvement:} President of Women in Computer Science, FOCAL Lab RL Research, Research Assistant in AI Lab}
+
+  \resumeSubHeadingListEnd
+
+% %------RELEVANT COURSEWORK-------
+% \section{Relevant Coursework}
+%     %\resumeSubHeadingListStart
+%         \begin{multicols}{4}
+%             \begin{itemize}[itemsep=0pt, parsep=3pt]
+%                 \item Data Structures
+%                 \item Probability \& Stats
+%                 % \item Discrete Structures
+%                 \item Software Design
+%                 \item Artificial Intelligence
+%                 % \item Calculus III
+%                 % \item Linear Algebra
+
+%             \end{itemize}
+%         \end{multicols}
+%         \vspace*{2.0\multicolsep}
+%     %\resumeSubHeadingListEnd
+
+
+%
+ \vspace{-20pt}
+
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Python, C, R, Java, C++, JavaScript, SQL, HTML/CSS, JQuery, ReactJS, Visual Basic} \\
+     \textbf{Developer Tools}{: Git, Power Automate, VS Code, Jupyter, Docker, Visual Studio Code, Jenkins, IntelliJ IDEA, Firebase, WordPress, SharePoint} \\
+     \textbf{Technologies/Frameworks}{: PyTorch, TensorFlow, NumPy, Pandas, tensorflow, scikit-learn, Node.js, Flask, React, AWS, Kubernetes, Express.js, PowerShell, } \\
+    \textbf{Additional Skills}{: Test-driven development, Microsoft Office, Continuous integration/continuous deployment (CI/CD), Flutter, Agile, AWS, Agile methodologies, RESTful APIs, Linux, boto3, Terraform, Jenkins}
+    }}
+ \end{itemize}
+ \vspace{-22pt}
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+        {Johns Hopkins University Applied Physics Laboratory}{September 2022 - May 2023} 
+        {Research/Machine Learning Intern}{Laurel, MD}
+    \resumeItemListStart
+        \resumeItem{Explored clinical decision-making under uncertainty and medical prediction with ML algorithms, presenting paper and study to the IEEE ISEC conference under mentorship of Dr. Caglar Caglayan.}
+        \resumeItem{Using data from the National Hospital Ambulatory Medical Care Survey (NHAMCS), successfully developed an ML framework using Logistic Regression, Random Forest, and XGBoost algorithms to predict admission and socio-demographic and clinical factors associated with admission/outcomes.}
+                                
+      \resumeItemListEnd
+% \vspace{-12px}
+          \vspace{-2pt}
+          
+    \resumeSubheading
+        {University of Maryland, Baltimore County}{June 2022 - January 2023} 
+        {Research Assistant}{Baltimore, MD}
+    \resumeItemListStart
+        \resumeItem{Conducted research with Dr. Riadul Islam and his UMBC VLSI-SOC Group collecting data and utilizing techniques such as CNNs, Reinforcement, and Supervised Learning for self-driving cars.}
+        \resumeItem{Currently developing new CNN and physical hardware for autonomous driving on model RC car with 3D printed chassis, camera, servo driver, and Raspberry Pi.}
+                                      \resumeItemListEnd
+          \vspace{-2pt}
+
+    \resumeSubheading
+        {Google}{June 2022 - August 2022} 
+        {Software Engineering Intern}{Mountain View, CA}
+      \resumeItemListStart
+        \resumeItem{Developed and optimized backend services in Java to improve data processing efficiency by 30\%.}
+        \resumeItem{Collaborated with cross-functional teams to design and implement new features for internal tools.}
+        \resumeItem{Wrote unit and integration tests to ensure code quality and reliability.}
+                            \resumeItemListEnd
+          \vspace{-2pt}
+
+    
+
+    
+  %   \resumeSubheading
+  %     {Maryland Innovation and Security Institute}{June 2021 -- August 2021}
+  %     {Cybersecurity Intern}{Columbia, MD}
+  %     \resumeItemListStart
+  %       \resumeItem{Learned about cybersecurity and applied knowledge to real-world national cyber problems. Led a group of 6 interns conducting and presenting on a case study on an emerging cyber threat.}
+  %   \resumeItemListEnd
+  
+  \resumeSubHeadingListEnd
+  \vspace{-20px}
+  \section{Research}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {FOCAL Lab@UIUC}{February 2024 - Present}
+      {}{}
+      \vspace{-20px}
+      \resumeItemListStart
+        \resumeItem{Conducting research on offline reinforcement learning from human feedback (RLHF) at the University of Illinois at Urbana-Champaign under Dr. Gagandeep Singh and graduate mentor Yinquan Xu.}
+        \resumeItem{Developing novel methodologies for training reward models from state-action pair human preference data.}
+                      %   \resumeItem{Collaborating with team to explore innovative approaches, drive research initiatives, and having the ultimate goal to publish findings in peer-reviewed journals and conferences.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+\vspace{-20pt}
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \vspace{-5pt}
+    \resumeSubHeadingListStart
+    \resumeProjectHeading
+          {\href{None}{\raisebox{-0.2\height}\ \underline{\textbf{Image Classification with Deep Learning}}}~ $|$ \emph{Python, TensorFlow, Keras}}{October 2022}
+          \resumeItemListStart
+            \resumeItem{Created a deep learning model to classify images into different categories with 95\% accuracy.}
+            \resumeItem{Trained the model on a large dataset of labeled images and evaluated its performance using various metrics.}
+                                  \resumeItemListEnd 
+                              \vspace{-19pt}
+
+    \resumeProjectHeading
+        {\href{None}{\raisebox{-0.2\height}\ \underline{\textbf{Personal Finance Tracker}}}~ $|$ \emph{React, Node.js, MongoDB, Express}}{January 2023}
+        \resumeItemListStart
+        \resumeItem{Developed a web application to help users track their personal finances, including income, expenses, and budgeting.}
+        \resumeItem{Implemented user authentication and data encryption for secure access.}
+                        \resumeItemListEnd 
+                    \vspace{-13pt}
+
+      % \resumeProjectHeading
+      %    {\href{https://workout-app-498b1.web.app/}{\raisebox{-0.2\height}\ \underline{\textbf{Gym Workout App}}}~  $|$ \emph{HTML/CSS (SCSS), JavaScript, React, NodeJS, Firebase}}{August 2022}
+      %     \resumeItemListStart           
+      %     \resumeItem{Created a React web application to plan, create, and track gym workouts on a weekly basis.}
+      %       \resumeItem{Processed user-inputted information in the back-end of the app to return an organized list and plan of various potential workouts.}
+
+      %     \resumeItemListEnd 
+          
+      
+       
+    \resumeSubHeadingListEnd
+\vspace{-15pt}
+
+
+%-----------INVOLVEMENT---------------
+% \section{Leadership / Extracurricular}
+%     \resumeSubHeadingListStart
+%         \resumeSubheading{Howard County Computer Science Workshops}{Fall 2021 -- Summer 2023}{Founder/Head}{Howard County, MD}
+%             \resumeItemListStart
+%                 \resumeItem{Created a summer program for elementary and middle school students to teach them computer science skills such as coding, web development, theory, etc.}
+%                 \resumeItem{Managed a team of 5 organizers and ran weekly meetings to oversee progress and create content.}
+%                 \resumeItem{Spread the program to several different schools in the area and the local library.}
+%             \resumeItemListEnd
+        
+%     \resumeSubHeadingListEnd
+
+
+\end{document}

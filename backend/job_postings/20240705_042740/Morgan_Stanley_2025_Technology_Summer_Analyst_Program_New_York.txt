@@ -1,0 +1,22 @@
+
+Job Title: 2025 Technology Summer Analyst Program (New York)
+Company: Morgan Stanley
+
+Description:
+Summer Analyst Program for 10 weeks, working on a specific development, engineering, or business & data analytics team. Offers real-world, project-based experience in technology. Includes training, networking events, technical demonstrations, team-building opportunities, and community service.
+
+Education Requirements:
+Bachelor's or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, Mathematics, Physics, Software Engineering, Business, Economics, or related fields.
+
+Skills:
+Problem-solving, Communication, Teamwork, Analytical skills, Linux/Unix, Windows, Programming languages (C, C++, Java, C#), Object-oriented development, Data structures, Algorithms, Complexity theory, Database skills, Scripting skills, Technical knowledge, IT solution requirements documentation
+
+Key Responsibilities:
+Design, develop, and maintain applications, Gather and analyze requirements, Make system design decisions, Evaluate, integrate, and develop software, Test and deploy applications, Develop high-performing trading systems, Evolve complex workflows and life-cycle management capabilities, Develop cutting-edge systems, Provide tools, applications, and platforms, Manage networks, computing hardware, operating systems, and databases, Develop websites and mobile applications, Analyze, capture, and validate requirements, Solve business challenges, Provide technical, data analytics, data science, and process excellence skills
+
+Experience Level: Analyst
+Location: New York
+Employment Type: Internship
+
+Keywords:
+Technology, Summer Analyst, Program, New York, Morgan Stanley, Development, Engineering, Business, Data Analytics, Real-world, Project-based, Training, Networking, Technical Demonstrations, Team-building, Community Service, Qualifications, Skills, GPA, Computer Science, Computer Engineering, Electrical Engineering, Mathematics, Physics, Software Engineering, Linux/Unix, Windows, Programming Languages, C, C++, Java, C#, Object-oriented Development, Data Structures, Algorithms, Complexity Theory, Database, Scripting, Technical Knowledge, IT Solution Requirements, Documentation, Analyst, Internship

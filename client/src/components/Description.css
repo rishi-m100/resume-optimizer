@@ -1,0 +1,57 @@
+/* Description.css */
+.description-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.description-container h2 {
+  color: #2c3e50;
+  margin-bottom: 20px;
+}
+
+.description-container h3 {
+  color: #34495e;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.description-container p {
+  color: #333;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.description-container ol, .description-container ul {
+  margin-left: 20px;
+  margin-bottom: 15px;
+}
+
+.description-container li {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.benefits {
+  background-color: #e8f4fd;
+  padding: 15px;
+  border-radius: 6px;
+  margin-top: 20px;
+}
+
+.benefits ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.benefits li::before {
+  content: "✓";
+  color: #3498db;
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}

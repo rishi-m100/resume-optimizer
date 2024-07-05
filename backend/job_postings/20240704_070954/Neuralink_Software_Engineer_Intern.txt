@@ -1,0 +1,22 @@
+
+Job Title: Software Engineer Intern
+Company: Neuralink
+
+Description:
+Software Engineer Intern focused on Site Reliability Engineering, responsible for building and maintaining infrastructure, collaborating with cross-functional teams, solving problems, and driving initiatives for best practices.
+
+Education Requirements:
+Not explicitly mentioned, but likely a Bachelor's degree in Computer Science or a related field is required.
+
+Skills:
+Software engineering, Networking protocols (TCP/IP, UDP, ARP, DNS, DHCP), OSI model of networking, Linux system administration, Hybrid cloud/on-prem infrastructure, Computer security fundamentals, Technical skills outside of the classroom
+
+Key Responsibilities:
+Collaborate with cross-functional teams, Solve problems spanning hardware deployment to cloud architecture, Drive initiatives for best practices, Extract critical metrics from systems, Build robust infrastructure, Provide technical leadership in software engineering
+
+Experience Level: Intern
+Location: Fremont, CA, USA
+Employment Type: INTERN
+
+Keywords:
+Software, Engineer, Intern, Neuralink, Infrastructure, Team, Systems, Networking, Protocols, Linux, Experience, Cloud, Security, Fundamentals, Technical, Skills, Collaborate, Solve, Problems, Drive, Initiatives, Best, Practices, Extract, Metrics, Build, Robust, Leadership

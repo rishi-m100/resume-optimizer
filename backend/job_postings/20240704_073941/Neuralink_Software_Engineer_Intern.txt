@@ -1,0 +1,22 @@
+
+Job Title: Software Engineer Intern
+Company: Neuralink
+
+Description:
+Neuralink is looking for a Software Engineer Intern to join their Infrastructure Team. The intern will collaborate with cross-functional teams to ensure the seamless operation of their systems, solve problems from hardware deployment to cloud architecture, drive initiatives for best practices, extract critical metrics from systems, build robust infrastructure, and provide technical leadership in software engineering across the entire company.
+
+Education Requirements:
+Not mentioned
+
+Skills:
+Robust software engineering skills, Solid understanding of core networking protocols, Experience administrating modern Linux systems, Experience building hybrid cloud/on-prem infrastructure, Strong computer security fundamentals, Experience with technical skills outside of the classroom
+
+Key Responsibilities:
+Collaborate closely with cross-functional teams, Solve problems spanning from physical hardware deployment to high-level cloud architecture, Drive initiatives to encourage best practices, Extract critical metrics from systems and monitors, Partner with the teams across the company to build a robust infrastructure, Build and contribute to systems, Provide technical leadership in software engineering
+
+Experience Level: Intern
+Location: Fremont, CA, USA
+Employment Type: INTERN
+
+Keywords:
+Software Engineer, Intern, Neuralink, Infrastructure, Team, Cross-functional, Systems, Hardware, Cloud, Architecture, Best Practices, Metrics, Robust, Technical Leadership, Networking, Protocols, Linux, Security, Experience, Fremont, California, USA, Brain-Computer Interface, BCI, Devices, Paralysis, Mobility, Independence, Technologies, Abilities, Community, World, Cloud-based, On-prem, User Base, Engineers, Scientists, Doctors, Deployment, Manufacturing, Tooling, Neural Recordings, Implants, Webgrid, Application, Tasks, Track Record, Tools, Automate, Processes, TCP/IP, UDP, ARP, DNS, DHCP, OSI, Production, Hybrid, Codified, Trade-offs, Fundamentals, Drive, Simpler, Faster, Secure, Laboratory, Research, Extracurricular, Project Teams, Open Source, Contributions, Volunteering, Personal Projects, Internship, Work Experience, IAC, Terraform, Docker, Packer, Ansible, Cloud-Init, Kickstart, Compiled Languages, Rust, C/C++, Cryptographic, Protocols, Authentication, Schemes, TLS, x509, 802.1x, U2F, SAML, Systems Administration, Windows, macOS, Production Lines, Medical Systems, Laboratory Settings, Pay Transparency, California Law, Hourly Rate, Compensation Package, Salary, Equity, Level, Organization, Benefits, Medical, Dental, Vision, PPO, Paid Holidays, Commuter, Meals, Equity, 401(k), Temporary Employees, Interns, Parental Leave, Flexible Time Off, Multiple Studies, Women, BIPOC, Candidates, Apply, Mission, Equal Opportunity, Employment Practices, Qualified Employees, Applicants, Race, Color, Religion, Gender, National Origin, Age, Disability, Marital Status, Military Status, Genetic Information, Federal, State, Local Laws, Recruitment, Hiring, Compensation, Promotion, Transfer, Disciplinary Action, Layoff, Return From Layoff, Training, Social, Recreational Programs, Unlawfully Discriminating, Prohibited Basis, Reasonable Accommodation, Interview Process, Modifications, Adjustments, Application, Hiring Process, Fully Participate, Alternate Formats, Read Aloud, Accessible Location, Service Dog, Sign Language Interpreter, Company Stage, Series C, Total Funding, Headquarters, Founded, Growth, Insights, Headcount, Benefits, Opportunity, World, Smartest, Talented Experts, Fields, Growth Potential, Rapidly Advance, Team Members, Outsized Impact, Excellent, Medical, Dental, Vision, Insurance, PPO Plan, Paid Holidays, Commuter Benefits, Meals Provided, Equity, 401(k) Plan, Temporary Employees, Interns Excluded, Parental Leave, Temporary Employees, Interns Excluded, Flexible Time Off, Temporary Employees, Interns Excluded

@@ -1,0 +1,22 @@
+
+Job Title: Machine Learning Software Engineer Intern - Winter 2025
+Company: Rippling
+
+Description:
+Develop robust, well-designed machine learning products, implement new updates and features, and solve complex problems affecting the business and clients. Gain experience of full-time engineers with responsibilities, ownership, and opportunity.
+
+Education Requirements:
+Currently enrolled in a M.Sc. or Ph.D. program in computer science or in a related field with at least 1 semester/quarter after their internship is completed
+
+Skills:
+Solid programming skills with emphasis on backend experience, Python, PySpark, PyTorch, Excellent communication skills, Passion to learn and develop skills in machine learning and software engineering
+
+Key Responsibilities:
+Translate product needs into mathematical formulations (models), Train models and ship them to production, Design scalable machine learning pipelines, Work with data engineers to collect and preprocess data, Stay up-to-date with latest research in ML
+
+Experience Level: Intern
+Location: San Francisco, CA
+Employment Type: Temporary / Intern
+
+Keywords:
+Machine Learning, Software Engineer, Intern, Winter 2025, Rippling, Engineering, Python, PySpark, PyTorch, Backend, Data Preprocessing, Feature Engineering, Model Training, Evaluation, Data Engineers, ML Research, Product Development, Platform Enhancement, Infrastructure Strengthening, Scalability
