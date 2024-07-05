@@ -4,7 +4,11 @@ werkzeug
 pdf2image
 PyYAML
 python-dotenv
-google-generativeai
 nltk
 scikit-learn
 gunicorn
+# protobuf==5.27.2
+Requests==2.32.3
+Werkzeug==2.2.3
+google-generativeai==0.7.1
+# protobuf==4.25.3
