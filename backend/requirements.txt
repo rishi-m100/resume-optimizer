@@ -7,4 +7,4 @@ Requests==2.32.3
 scikit_learn==1.4.2
 Werkzeug==2.2.3
 gunicorn
-google-generativeai
+google-generativeai==0.7.1
